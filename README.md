@@ -38,4 +38,4 @@ on your computer. Reach out to us if something goes wrong.
 
 **How do I get help?**
 
-[Discord](https://discord.com/channels/1018949047626760252/1121851322111643798) or [Email](mailto:hello@kibo.school) or  with questions or issues. Try to include as many details about the problem as you can, including what step you were trying to accomplish and what problem you are facing.
+Drop a message on the group with questions or issues. Try to include as many details about the problem as you can, including what step you were trying to accomplish and what problem you are facing.
